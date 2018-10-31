@@ -1,0 +1,81 @@
+.bea-dashboard-icons-box {
+	margin-left: -50px;
+	list-style: none;
+	text-align: center;
+}
+
+.bea-dashboard-icons-box li {
+	display: inline-block;
+}
+
+.bea-dashboard-icons {
+/*   width: 190px;
+  height: 210px;
+  margin: 30px;  */
+  font-size: 18px;
+  width: 171px;
+  height: 189px;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  /* float: left; */
+  padding-top: 43px;
+  margin: 20px 25px 15px 25px;
+  background-position-x: 10px;
+/*   border: 1px solid #c1c1c1; */
+  background: #fff;
+  text-align: center;
+  border-radius: 10px;  
+}
+
+.bea-dashboard-icons .glyphicon ,
+.bea-dashboard-icons .fa {
+  margin-bottom: 30px;
+  font-size: 60px;
+  color: #76323f;
+}
+
+.bea-dashboard-icons .glyphicon-text {
+  display: block;
+  text-align: center;
+  word-wrap: break-word; /* Help out IE10+ with class names */
+  color:#333;
+}
+
+.bea-dashboard-icons:hover {
+  color: #fff;
+  background: #76323f;
+  text-decoration: none;
+  font-weight: none;
+  border: 1px solid #76323f;
+  -webkit-box-shadow: 0 0 8px #76323f;
+  box-shadow: 0 0 8px #76323f;
+}
+
+.bea-dashboard-icons > a:hover {
+  outline: 0;
+  text-decoration: none;
+}
+ 
+ @media (min-width: 1200px) {
+.index-container {
+  width: 780px;
+}
+}
+ 
+ @media (min-width: 992px) and (max-width: 1199px) {
+.index-container {
+  width: 780px;
+}
+}
+ 
+ @media (min-width: 768px) and (max-width: 991px)  {
+.index-container {
+  width: 530px;
+}
+}
+
+ @media (max-width: 767px) {
+.index-container {
+  width: 270px;
+}
+}

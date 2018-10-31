@@ -1,0 +1,367 @@
+@CHARSET "ISO-8859-1";
+
+/* ********************** Bootstrap *********************** */
+.page-header {
+	margin: 0px 10px 15px 0px;
+	padding: 0px;
+}
+
+.panel-footer {
+	margin: 5px -10px 0px -15px;
+	padding: 5px 10px 0px 0px;
+}
+
+/* ********************** jQuery UI *********************** */
+::-ms-clear,
+::-ms-reveal{
+	display:none;
+}
+
+.ui-icon-inline {
+	width: 15px;
+	height: 15px;
+	display: inline-block;
+	text-indent: -99999px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-image: url("themes/images/ui-icons_81132e_256x240.png");
+}
+
+.ui-state-highlight:hover {
+	border: 1px solid #cdd5da;
+	background: #f6f6f6 url("images/ui-bg_highlight-hard_100_f6f6f6_1x100.png") 50% 50% repeat-x;
+	font-weight: bold;
+	color: #ED0101;
+}
+
+.ui-datepicker-trigger {
+	vertical-align: middle;
+	height: 20px;
+	width: 20px;
+	margin-left: 3px;
+	cursor: pointer;
+}
+
+.ui-dialog .ui-dialog-buttonpane {
+	text-align: center;
+}
+
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+	float: none;
+}
+
+.ui-jqgrid .ui-pager-control .ui-pager-table td {
+	line-height: 28px;
+}
+.ui-jqgrid .ui-pager-control .ui-pager-table .xaa-select-size {
+	border: 1px solid #c09f80;
+	margin-top: 0;
+}
+.ui-jqgrid .ui-pager-control .ui-pager-table .xaa-select-size>button:hover {
+	background:  #c09f80 !important;
+	color: #fff !important;
+}
+.xaa-jqGrid-selectRow .select-one .xaa-select-size>span.select-list-hover {
+	color: #fff;
+}
+
+/* ********************** jqGrid *********************** */
+.jqGrid-span {
+	height: 100%;
+	display: inline-block;
+}
+
+.ui-jqgrid .ui-jqgrid-htable th div {
+	height: auto;
+}
+
+.ui-jqgrid tr.jqgrow td {
+	white-space: normal;
+}
+
+/* .ui-priority-secondary-grid {
+	background: #fdf2f2;
+}
+
+.ui-priority-secondary-grid:highlight {
+	border: 1px solid #ddeefe;
+	background: #ddeefe url("images/ui-bg_glass_55_ddeefe_1x400.png") 50% 50% repeat-x;
+	color: #444444;
+}
+
+.ui-priority-secondary-grid:hover {
+	border: 1px solid #cdd5da;
+	background: #f6f6f6 url("images/ui-bg_highlight-hard_100_f6f6f6_1x100.png") 50% 50% repeat-x;
+	font-weight: bold;
+	color: #ED0101;
+}
+ */
+/* ********************** OLD MENU *********************** */
+.mega-menu {
+	list-style: none;
+} 
+
+/* ********************** TABLE *********************** */
+.table-hide {
+	display: none;
+}
+
+.td-center {
+	text-align: center;
+}
+
+.header-hr {
+	border-top: solid;
+	border-top-width: 1px;
+	border-top-color: #FF6600;
+	width: 100%;
+}
+
+/* ********************** OTHERS UI *********************** */
+.super-connect label,.super-connect a{
+	color: #0000ff;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.tabs li {
+	list-style: none;
+	float: left;
+	margin-left: 5px;
+	padding: 5px;
+	heigth: 20px;
+	cursor: pointer;
+}
+
+.tabs {
+	padding: 0;
+	margin-top: 3px;
+}
+
+/*
+.unselect {
+	border: solid;
+	border-width: 1px;
+	border-color: #FF6600;
+	background-color: #FF9933;
+}
+
+.select {
+	border: solid;
+	border-width: 1px;
+	border-color: #ff6600;
+	background-color:  #EED6B7;
+	border-bottom-color: #EED6B7;
+}
+*/
+
+.radio-title {
+	font-weight: bold;
+	border-bottom: solid;
+	border-bottom-width: 4px;
+}
+
+/* ********************** MESSAGEES *********************** */
+.msg, .err {
+	font-size: 0.9em;
+	font-weight: normal;
+}
+
+.err {
+	font-color: #ed171f;
+}
+
+/* ********************** FIELDS *********************** */
+.mandatory {
+	color: #0000ff;
+}
+
+
+/* ********************** COLORS *********************** */
+.color-red {
+	color: #ed171f;
+}
+
+.back-grey {
+	background-color: #D3D3D3; 
+}
+
+/* ********************** OTHERS CLASSES *********************** */
+.nowrap {
+	display: block; 
+	float: left;
+}
+
+.italic-bold {
+	font-style: italic;
+	font-weight: bold;
+}
+
+.dialog-click {
+	color: #0000ff;
+	text-decoration: underline;
+}
+
+.dialog-click:hover {
+	color: #000000;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.bottom-border {
+	border-bottom: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+}
+
+/* ********************** OTHERS *********************** */
+.text-align-right {
+	text-align: right;
+}
+
+.vertical-top {
+	vertical-align: top;
+}
+
+.vertical-middle {
+	vertical-align: middle;
+}
+
+.vertical-bottom {
+	vertical-align: bottom;
+}
+
+.align-right {
+	text-align: right;
+}
+
+.align-left {
+	text-align: left;
+}
+
+.align-center {
+	text-align: center;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.cursor-pointer {
+	cursor: pointer;
+}
+
+.line-height-100{
+	line-height: 100%;
+}
+
+.line-height-22 {
+	line-height: 22px;
+}
+
+.float-right {
+	float: right;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.nonLeftBorder {
+	border-left: none;
+}
+
+.nonRightBorder {
+	border-right: none;
+}
+
+.footer-style {
+	position: fixed; 
+	bottom:0px; 
+	width:100%;
+}
+
+.xaa-toast-wrap {
+  position: fixed;
+  bottom: 20px;
+  right: 16px;
+  max-height: 305px;
+  max-width: 300px;
+  z-index: 1100;
+  min-width: 185px;
+  overflow: hidden;
+}
+/*************** txc start *****************/
+/* .xaa-toast-wrap .xaa-toast {
+	display: none;
+} */
+
+.xaa-toast-wrap .xaa-toast:last-child {
+	display: block;
+}
+/*************** txc end *****************/
+
+.xaa-toast-header {
+  float: right;
+  width: 8%;
+  margin-top: 8px;
+  margin-left: 2%;
+}
+
+.xaa-toast-close {
+  float: none;
+  outline: none;
+}
+
+.xaa-toast {
+/*   position: fixed;
+  bottom: 43px;
+  right: 0;
+ */ 
+  height: 60px;
+  margin-bottom: 15px;
+  margin-right: 5px;
+  padding: 5px 5px 5px 10px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px #c2707f;
+  background : #c2707f;
+  font-size: 14px;
+  color: #fff;
+  z-index: 1010; 
+ }
+ 
+.xaa-toast-body {
+  float: right;
+  width: 90%;
+  padding-top: 5px;
+  cursor: pointer;
+  word-break: break-word;
+}
+.xaa-toast-body div {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.xaa-toast-close {
+  font-size: 18px;
+  opacity: 1 !important;
+  color: #fff !important;
+  display: block;
+  margin-top: -5px;
+}
+
+/*************************0426*************************/
+@media  (max-width: 414px) {
+  .xaa-toast-wrap {
+    width: 70%;  
+  }
+  .xaa-toast-wrap .xaa-toast {
+    width: 100%!important;  
+  }
+}
+

@@ -1,0 +1,48 @@
+.bea-dashboard-icons-box {
+	margin-left: -50px;
+	list-style: none;
+}
+
+.bea-dashboard-icons {
+	font-size: 25px;
+	width: 160px;
+	height: 180px;
+	background-repeat: no-repeat;
+	overflow: hidden;
+	float: left;
+	padding-top: 30px;
+	margin: 10px;
+	border: 1px solid #E1E1E1;
+	box-shadow: #E1E1E1 0px 0px 10px;
+	background-position-x: 10px;
+	text-align: center;
+	border-radius: 5px;
+}
+
+.bea-dashboard-icons .glyphicon {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  font-size: 48px;
+  color:#004276;
+}
+
+.bea-dashboard-icons .glyphicon-text {
+  display: block;
+  text-align: center;
+  word-wrap: break-word; /* Help out IE10+ with class names */
+  color:#004276;
+}
+
+.bea-dashboard-icons:hover {
+    color: red;
+	text-decoration: none;
+	font-weight: none;
+	border: 1px solid red;
+	box-shadow: red 0px 0px 10px;
+}
+
+.bea-dashboard-icons > a:hover {
+  outline: 0;
+  text-decoration: none;
+}
+ 

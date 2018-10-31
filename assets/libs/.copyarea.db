@@ -1,0 +1,20 @@
+ClearCase CopyAreaDB|4
+XAA_VOB\base\XAAWebAppJS\src\META-INF\resources\assets\libs
+2
+10
+7:struts2|2|0|0|0|187b1d8de1114b8b82c96272acfddf5d|0
+9:jquery-ui|2|0|0|0|380323c6719749bcbddb85cbaf931b3d|0
+11:bootstrap-plugins|2|0|0|0|881f0e0d101a430e8e7bb220ea0013d3|0
+4:json|2|0|0|0|b33a3f843c8141d6b1fa27194161eac3|0
+6:jqGrid|2|0|0|0|0d5181359e394c358f00f3480fe8877d|0
+c:font-awesome|2|0|0|0|4ca8e51923b64c5f9d74061e23dcea82|0
+2:d3|2|0|0|0|f8bbc999450441efb3c3c041175ce957|0
+e:jquery-plugins|2|0|0|0|b22db5f519ef4eeeb7681edcd3a4d622|0
+18:bootstrap-datetimepicker|2|0|0|0|f4fec24768364c15895fb87a5e834e21|0
+6:jquery|2|0|0|0|269c7fbb23494b51bccaafee394da51b|0
+7:echarts|2|0|0|0|8b2a566a064a4eeeb2dffe7d143fbdfa|0
+c:fullcalendar|2|0|0|0|a8775acbab0042b7b6b4a8974a5529b0|0
+9:fileinput|2|0|0|0|fe2884bc315f43289edecce524ed715c|0
+6:moment|2|0|0|0|1dc815261a0344e2b60d506da5893cb0|0
+9:bootstrap|2|0|0|0|2d3fbb36f90e4996bdb69ae1fd4b1160|0
+9:jsencrypt|2|0|0|0|7517a37bb93e41bdb0c6ea8199127075|0

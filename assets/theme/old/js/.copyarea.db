@@ -1,0 +1,16 @@
+ClearCase CopyAreaDB|4
+XAA_VOB\base\XAAWebAppJS\src\META-INF\resources\assets\theme\old\js
+2
+c
+b:xaa-form.js|1|1622d6f36c2|3cd|79e324b7|2a75a089cb6443128a5c44048661eb5c|0
+13:xaa-ui-dashboard.js|1|1622d6f36e6|3c5|8bf7f512|714c813976984c3e8cd3ded2c6525016|0
+b:xaa-ajax.js|1|1622d6f363e|1022|63d2f5c7|75a5397322814a088d8906903302d608|0
+11:xaa-validation.js|1|1622d6f36ff|3c86|87b3c2d8|b6785db63a7d4b01bdaa38f575d0e51b|0
+e:xaa-ui-menu.js|1|1622d6f36ea|37b|3dc00e69|6007d9b9577f4c1eba6fdc70bd92db88|0
+10:xaa-constants.js|1|1622d6f36ac|10e|78b94c96|8d3f457f033c419aba9d7cb6dfc1aa81|0
+6:xaa.js|1|1622d6f3708|1dee|a531d7e8|e02ad270258b4bfbb35602b4376c3d11|0
+e:xaa-charset.js|1|1622d6f367e|394f|b1334058|03cecf9aac734a2490c75f9f28d725d7|0
+1a:xaa-i18nMessageProvider.js|1|1626065ee7a|5a0|1ea6b451|ff0edc01a27048f1bd0029345629f213|0
+e:xaa-blockUI.js|1|1622d6f3670|3e8|d6bf3ef8|d1de6150291b4bf2bb0eb13676f3fd5e|0
+f:xaa-datatype.js|1|1622d6f36ae|292d|9cc3bfac|bb46141e5c634829a9825e57d846fe68|0
+9:xaa-ui.js|1|1622d6f36fa|577|e02074b5|cff93e797c2b4580a2daa764f73643d6|0

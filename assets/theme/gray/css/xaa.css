@@ -1,0 +1,514 @@
+@CHARSET "ISO-8859-1";
+
+/* ********************** OVERALL *********************** */
+body { 
+	/*background-color: #EED6B7;*/
+	background-color: #d7cec7;
+	border: 0;
+	outline: none;
+	font-size: 12px;
+	font-family:  "Segoe UI", sans-serif, Arial;
+}
+
+legend {
+	color: inherit;
+	font-size: 1.2em;
+	font-weight: 600;
+}
+
+fieldset {
+  	background: red; /* For browsers that do not support gradients */
+  	background: -webkit-linear-gradient(left top, #FFFFFF, #DEDAD6); /* For Safari 5.1 to 6.0 */
+  	background: -o-linear-gradient(bottom right, #FFFFFF, #DEDAD6); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(bottom right, #FFFFFF, #DEDAD6); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to bottom right, #FFFFFF, #DEDAD6); /* Standard syntax */
+	border-color: inherit;
+	margin: 5px 5px;
+}
+
+table {
+	width: auto;
+}
+
+td {
+	height: auto;
+}
+
+label {
+	font-weight: normal;
+}
+
+input {
+	border-radius: 5px;
+	box-shadow: 1px 1px 1px #c0c0c0;
+}
+form {
+	margin: 0;
+}
+
+/* input[type="text"] {
+	font-size: 12;
+  	width: auto;
+  	height: 24px;
+  	padding-top: 3px;
+} */
+
+/* input[type="submit"],
+input[type="button"] {
+	font-size: 1em;
+	min-width: 80px;
+} */
+
+select {
+	border-radius: 5px;
+	box-shadow: 1px 1px 1px #fbf2e1;
+}
+
+input + .tooltip.bottom > .tooltip-arrow {
+    border-bottom: 5px solid blue;
+}
+
+textarea {
+	border-radius: 5px;
+	box-shadow: 1px 1px 1px #fbf2e1;
+}
+
+.xaa-inline-block {
+	display: inline-block;
+}
+/* ********************** GENERAL TYPES *********************** */
+table.xaa-large {
+	width: 100%;
+}
+
+table.xaa-medium {
+	width: 66.7%;
+}
+
+table.xaa-small {
+	width: 33.3%;
+}
+
+
+td.xaa-buttons {
+	text-align: right;
+}
+
+/* ********************** LOGIN *********************** */
+body.login {
+	background-color: #861926;
+}
+
+table.login-header {
+	margin-top: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 320px;
+	background-color: #861926;
+}
+
+table.login-outer {
+	width: 100%;
+	height: 180px;
+	background-color: #ffffff;
+}
+
+table.login {
+	font-size: 1.0em;
+	font-color: #ffffff;
+	margin-left: auto;
+	margin-right: auto;
+	width: 320px;
+	/*background-image: url('../assets/img/login.bmp');*/ /* optional */
+	background-repeat:no-repeat;
+	background-color: #ffffff;
+}
+
+table.login-footer {
+	margin-top: 5%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 320px;
+	color: #ffffff;
+	background-color: #861926;
+	text-align: center;
+}
+
+td.login-system {
+	text-align: left;
+}
+
+td.login-button {
+	text-align: right;
+}
+
+/*input.login {
+	font-size: 1em;
+	width: 100%;
+	height: 32px;
+	padding-top: 5px;
+}*/
+
+/* ********************** New Login Start *********************** */
+html,body {
+  height: 100%	
+}
+
+.xaa-login-body {
+  background: #d7cec7 !important;	
+}
+
+.xaa-login-header{
+  height: 40px;
+  line-height: 40px;
+  font-size: 14px;
+  color: #fff;
+  font-weight: bold;
+  background: #76323f;
+}
+
+.xaa-login-bg-white {
+  background: #fff;
+}
+
+.navbar-header span {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.xaa-login-panel-shadow {
+  -webkit-box-shadow: 4px 4px 12px rgba(0,0,0,.175);
+  box-shadow: 4px 4px 12px rgba(0,0,0,.175);	
+}
+
+.xaa-login-panel {
+  border-radius: 4px !important;	
+}
+
+.xaa-login-panel-heading {
+  padding: 11px 20px 10px 35px;
+  background: #fff !important;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;   
+}
+
+.xaa-login-panel-body {
+  padding: 10px 35px;
+}
+
+.xaa-login-text {
+  margin-bottom: 5px;
+  color: #474747;
+  font-family: 'Segoe UI-SemiBold', sans-serif, Arial;
+}
+
+.xaa-login-title-btn {
+  margin-right: 5px;
+  font-size: 14px;
+  color: #a6192e;
+}
+
+.xaa-form-group-relative {
+  position: relative;
+}
+
+.xaa-center-btn {
+  margin: 20px 0 5px 0;
+  text-align: center;
+}
+
+.xaa-login-input {
+padding: 0 0 0 32px !important;
+height: 26px;
+line-height: 24px;
+}
+
+.xaa-login-icon {
+  position: absolute;
+  top: 40px;
+  left: 10px;
+}
+
+.xaa-mBot {
+  margin-bottom: 3px;	
+}
+
+.xaa-login-title {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  margin-left: 3px;
+  display: inline-block;
+  font-size: 14px;
+  color: #76323f;
+  font-weight: bold;
+  font-family: 'Segoe UI-SemiBold', sans-serif, Arial;  
+}
+
+.xaa-login-subhead {
+  font-size: 14px;
+  color: #474747;
+  margin-bottom: 7px;
+  font-family: 'Segoe UI-SemiBold', sans-serif, Arial;  
+}
+
+.xaa-complex-table-title {
+  padding: 10px 15px;
+  border-bottom: 1px solid #ccc;
+}
+
+.xaa-complex-table-title>legend {
+  color: #a6192e;
+  font-size: 16px;
+  font-weight: bold;
+  border-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+
+.xaa-login-text-upIcon {
+  position: absolute;
+  top: 32px;
+  left: 10px;
+  color: #666;
+  font-size: 13px; 
+}
+
+.xaa-login-text-downIcon {
+  position: absolute;
+  top: 32px;
+  left: 10px;
+  color: #666;
+  font-size: 13px; 
+}
+
+.xaa-login-title-icon {
+  color: #76323f;
+  font-size: 14px;
+}
+
+.xaa-login-container {  
+  margin-top: 95px;
+}
+
+ @media (min-width: 1200px) {
+.xaa-login-container {  
+  width: 480px !important;
+    
+}
+}
+ 
+ @media (min-width: 992px) and (max-width: 1199px) {
+.xaa-login-container {
+  width: 530px !important;
+}
+}
+ 
+ @media (min-width: 768px) and (max-width: 991px) {
+.xaa-login-container {
+  width: 530px !important;
+}
+}
+
+ @media (max-width: 414px) {
+ .xaa-login-panel-heading {
+  padding: 11px 20px 10px 20px;
+}	
+ 
+.xaa-login-container {  
+  margin-top: 40px;
+}
+.xaa-login-panel-body {
+  padding: 10px 20px;
+}
+}
+
+/* error color */
+.xaa-error-msg {
+	color: red;	
+}
+
+.xaa-error-border {
+	boder:1px solid red;
+}
+/* ********************** footer *********************** */
+.xaa-login-footer-style {
+  height: 24px;
+  line-height: 24px;	
+  text-align: center;	
+  color: #535353;	
+  font-size: 12px;	
+  background: #c2bab3;	
+}
+/* ********************** New Login End *********************** */
+
+/* ********************** Relogin Login End *********************** */
+.xaa-relogin-mask {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #999;
+  display: none;
+  z-index: 1230;
+}
+
+.xaa-relogin-content {
+  max-width: 496px;
+  width: 50%;
+  background: #fff;
+  position: absolute !important;
+  margin: 0;
+  padding: 0;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  border-radius: 6px;
+  border: 0!important;
+  box-shadow: rgba(237,23,31,.4) 4px 4px 12px !important;
+}
+
+.xaa-relogin-header {
+  padding: 10px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  background: #76323f;
+}
+
+.xaa-relogin-body {
+  padding: 15px;
+}
+
+.xaa-relogin-body-text p:first-child {
+  margin: 0 !important;
+}
+
+.xaa-relogin-input {
+  padding: 0;
+  padding-left: 10px !important;
+  height: 24px !important;
+  font-size: 12px;
+}
+
+.xaa-relogin-title-icon {
+  color: #fff;
+  font-size: 14px;
+  vertical-align: middle;
+  
+}
+
+.xaa-relogin-title {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  display: inline-block;
+  color: #fff;
+  font-size: 16px;
+  vertical-align: middle
+}
+
+.xaa-relogin-body-text{
+  margin-top:5px; 
+  margin-bottom: 10px; 
+  border-bottom: 1px solid #c1c1c1;
+}
+
+.xaa-paramButttons {
+  padding: 20px;
+  text-align: center;
+}
+
+.xaa-relogin-left-btn {
+  margin-right: 20px;
+}
+
+.xaa-error-border {
+  border: 1px solid red;
+}
+
+.xaa-error-msg {
+  color: red;
+}
+
+.xaa-close {
+  outline: none;
+  border: 0;
+  opacity: 1 !important;
+  font-size: 12px;
+}
+
+.xaa-close span{
+  font-size: 12px;
+  padding: 0;
+  color: #fff;
+  vertical-align: middle;
+}
+
+@media screen and (min-width: 390px) and (max-width: 991px) {
+.xaa-relogin-size {
+  /*height: 405px !important;*/
+  width: 90%;
+}
+.xaa-relogin-body {
+  padding: 15px 20px;
+}
+
+.xaa-relogin-body-text p:first-child {
+  margin-bottom: 0 !important;
+}
+
+.xaa-relogin-left-btn {
+  margin-right: 0 !important;
+}
+
+.xaa-relogin-body-text {
+  margin-bottom: 5px;
+}
+}
+
+@media screen and (max-width: 389px) {
+.xaa-relogin-size {
+  /*height: 405px !important;*/
+  width: 90%;
+}
+.xaa-relogin-body {
+  padding: 0 15px 15px 15px;
+}
+
+.xaa-relogin-body-text p:first-child {
+  margin-bottom: 0 !important;
+}
+
+.xaa-relogin-left-btn {
+  margin-right: 0 !important;
+}
+
+.xaa-relogin-body-text {
+  margin-bottom: 5px;
+}
+.xaa-relogin-btn-marginB {
+  margin-bottom: 10px;
+}
+}
+/* ********************** Relogin Login End *********************** */
+
+/* ********************** DISABLED *********************** */
+/*
+.ui-table-login {
+	position: absolute; 
+	top: 15%; 
+	left: 50%; 
+	height: 2em; 
+	margin-top: -1em; 
+	width: 400px; 
+	margin-left: -200px; 
+	line-height: 2em;
+	text-align: center;
+}
+
+.ui-table-left {
+    width: 80%; 
+    margin-left: 10%; 
+    margin-right: 10%;
+    text-align: left;
+}
+*/

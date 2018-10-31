@@ -1,0 +1,18 @@
+ClearCase CopyAreaDB|4
+XAA_VOB\base\XAAWebAppJS\src\META-INF\resources\assets\libs\font-awesome\scss
+2
+e
+b:_icons.scss|1|1622d6f21c4|c542|f796ae89|7f8818ceafd8430ab0a06d26844226e2|0
+c:_mixins.scss|1|1622d6f21e1|665|dbe3152a|f9ab8d6bc7604871ad0a4e591e5a3763|0
+15:_bordered-pulled.scss|1|1622d6f21b9|250|c822bad5|b5e7b1aff9794b8c8ac08b621a803904|0
+a:_path.scss|1|1622d6f21e3|30f|a5730658|9d962053bc464b6d894b9b994ba2eb78|0
+d:_stacked.scss|1|1622d6f21fe|1e2|b4ac9a56|f06ddc7c54164d1cbb7176a594178480|0
+11:font-awesome.scss|1|1622d6f2204|1ae|fada8c9b|43ac7b7d6a5543c29e310595eea01aae|0
+c:_larger.scss|1|1622d6f21da|177|3769730b|0f891b10aac3449690710346b2e39094|0
+15:_rotated-flipped.scss|1|1622d6f21fa|2a0|93dfd1dd|12bbb323152c4ee48f394d52e3022c95|0
+f:_variables.scss|1|1622d6f2201|5874|414109c5|11623330738847ef8cb3715fcd08226c|0
+a:_list.scss|1|1622d6f21dd|17a|78c670fd|ed65ed260e33452785b31131df3ab77f|0
+13:_screen-reader.scss|1|1622d6f21fc|86|ec382898|e224792f5acd4c6eb7c9de8355fa95b5|0
+11:_fixed-width.scss|1|1622d6f21c0|78|845520f9|5fb94284ac0448e8bba0c430e8e68cf5|0
+a:_core.scss|1|1622d6f21bc|1cb|59979aa5|0e7738750d934c42b5a531f4ad7c1337|0
+e:_animated.scss|1|1622d6f21b4|2cb|be8dd614|966c3638d7a642f984e383fd05bdfaa9|0

@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+XAA_VOB\base\XAAWebAppJS\src\META-INF\resources\assets\theme\gray\css
+2
+6
+7:xaa.css|1|1622d6f349a|231b|448a3b76|fc7ff27de05f4092b0cbfa2f803c3aa4|0
+f:xaa-ui-menu.css|1|162a7e09c6d|267c|2e031ede|14b8a1444b424c3882cd166cb5f4eab1|0
+14:xaa-ui-dashboard.css|1|1622d6f3461|5ef|ad0c6d6|7db33a298eb64d719026505ba1ddb924|0
+a:xaa-ui.css|1|1622d6f3472|18b6|7a3514bb|a544a7e4ca684a4484e3d50413268a09|0
+19:xaa-ui-dashboard-impl.css|1|1622d6f345a|17ab|ef77e68c|b70d2884737b4c30b9ca3368011cb9dd|0
+f:xaa-ui-base.css|1|162bde841c2|106bb|8b291295|251d1644839144eb9e1e1f09d5c98482|0

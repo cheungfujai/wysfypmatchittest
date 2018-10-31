@@ -1,0 +1,27 @@
+ClearCase CopyAreaDB|4
+XAA_VOB\base\XAAWebAppJS\src\META-INF\resources\assets\js
+2
+17
+b:xaa-form.js|1|1624616a286|3cd|79e324b7|7b85b30b2db54df1bba9757ee78ae6f3|0
+e:xaa-ui-menu.js|1|1622d6efce2|37f|d6ec0f1c|9c4e95c7e286486a8d2a224ba8ffb425|0
+10:xaa-constants.js|1|1622d6efc96|10e|78b94c96|55fa8c3e05bc4babb96ba7059d1cdb14|0
+11:xaa-treeManage.js|1|162856ca8f8|1bd9|3c5ffa5e|d7247743e6414486b75413fa5fd5a7ca|0
+12:xaa-price-chart.js|1|1622d6efe36|ee5|87763ab9|d8a1895c83e14417aa49bcd651ff4060|0
+e:xaa-charset.js|1|1622d6efc8e|394f|b1334058|0e36d905b242453780dbcac4ece323ec|0
+10:xaa-bar-chart.js|1|1622d6efdc1|fa1|8a0651e1|826979abd46b470a943a8067e7fc13dc|0
+e:xaa-blockUI.js|1|1622d6efc73|612|2e0ac941|c1c0bfedb8924b838d756b9546c7b526|0
+10:xaa-pie-chart.js|1|1622d6efe30|2502|8e4ad6a4|cd73846fa91e4e72afe0a34846b8b53d|0
+d:xaa-dialog.js|1|1624616d6b1|51b8|4c3cd6b2|4a86b844737d409fa373d2db75acd87e|0
+13:xaa-notification.js|1|1622d6efe4d|157e|1cf63f18|22590d63f8f54a3eb7cd732d113b30de|0
+c:xaa-chart.js|1|1622d6efe13|623d|85fd0470|d479428ecc1c4995b2236fd0023a8c1e|0
+13:xaa-ui-dashboard.js|1|1622d6efcdd|53c|a1866181|25a79bea64fb4f1181a9baa0b0ba2413|0
+15:xaa-jqgrid-toolbar.js|1|1622d6efe43|2d48|408d1040|45dd5a70b9e44ec7abd7fdb416fc3471|0
+b:xaa-ajax.js|1|162709c05b4|1880|1eea72e8|8bc6fcee6d2149dab72d0412e84dd2d3|0
+11:xaa-validation.js|1|1622d6efd66|3afd|9fb15770|32d81bb38a014fe5b6ff3eabd40d4a7f|0
+6:xaa.js|1|162479e9490|1dee|a531d7e8|5990016d71b04ae8b52c91716d7b296b|0
+b:xaa-file.js|1|162bc994528|4aad|8d730875|7852f0aedfb7420787befb8ab7a9cbd3|0
+e:xaa-timeout.js|1|1622d6efdb6|650|b804f9e1|874a361d69e3415bb49b5b754d51784f|0
+1a:xaa-i18nMessageProvider.js|1|162db5de786|748|a9ee3e76|ab28ce8d6d3949e494761b8fed3b14bd|0
+9:xaa-ui.js|1|1622d6efd1f|1976a|5376cd82|00ccd6d48fb8449fa135eb067386658b|0
+11:xaa-lookupList.js|1|162a7e09c10|21d6|a8d373d4|c7224dabace44b1fa3fecad7a35dd7c5|0
+f:xaa-datatype.js|1|1622d6efcbd|292d|9cc3bfac|f60dbd901a8b40189ffc955006cb5271|0

@@ -1,0 +1,165 @@
+@CHARSET "ISO-8859-1";
+
+/* ********************** OVERALL *********************** */
+body { 
+	/*background-color: #EED6B7;*/
+	background-color: #ffffff;
+	border: 0;
+	outline: none;
+	font-family:  Segoe UI, sans-serif, Arial;
+}
+
+legend {
+	color: inherit;
+	font-size: 1.2em;
+	font-weight: 600;
+}
+
+fieldset {
+  	background: red; /* For browsers that do not support gradients */
+  	background: -webkit-linear-gradient(left top, #FFFFFF, #DEDAD6); /* For Safari 5.1 to 6.0 */
+  	background: -o-linear-gradient(bottom right, #FFFFFF, #DEDAD6); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(bottom right, #FFFFFF, #DEDAD6); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to bottom right, #FFFFFF, #DEDAD6); /* Standard syntax */
+	border-color: inherit;
+	margin: 5px 5px;
+}
+
+table {
+	width: auto;
+}
+
+td {
+	height: auto;
+}
+
+label {
+	font-weight: normal;
+}
+
+input {
+	border-radius: 5px;
+	box-shadow: 1px 1px 1px #c0c0c0;
+}
+
+input[type="text"] {
+	font-size: 12;
+  	width: auto;
+  	height: 24px;
+  	padding-top: 3px;
+}
+
+input[type="submit"],
+input[type="button"] {
+	font-size: 1em;
+	min-width: 80px;
+}
+
+select {
+	border-radius: 5px;
+	box-shadow: 1px 1px 1px #fbf2e1;
+}
+
+input + .tooltip.bottom > .tooltip-arrow {
+    border-bottom: 5px solid blue;
+}
+
+textarea {
+	border-radius: 5px;
+	box-shadow: 1px 1px 1px #fbf2e1;
+}
+
+/* ********************** GENERAL TYPES *********************** */
+table.xaa-large {
+	width: 100%;
+}
+
+table.xaa-medium {
+	width: 66.7%;
+}
+
+table.xaa-small {
+	width: 33.3%;
+}
+
+
+td.xaa-buttons {
+	text-align: right;
+}
+
+/* ********************** LOGIN *********************** */
+body.login {
+	background-color: #861926;
+}
+
+table.login-header {
+	margin-top: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 320px;
+	background-color: #861926;
+}
+
+table.login-outer {
+	width: 100%;
+	height: 180px;
+	background-color: #ffffff;
+}
+
+table.login {
+	font-size: 1.0em;
+	font-color: #ffffff;
+	margin-left: auto;
+	margin-right: auto;
+	width: 320px;
+	/*background-image: url('../assets/img/login.bmp');*/ /* optional */
+	background-repeat:no-repeat;
+	background-color: #ffffff;
+}
+
+table.login-footer {
+	margin-top: 5%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 320px;
+	color: #ffffff;
+	background-color: #861926;
+	text-align: center;
+}
+
+td.login-system {
+	text-align: left;
+}
+
+td.login-button {
+	text-align: right;
+}
+
+input.login {
+	font-size: 1em;
+	width: 100%;
+	height: 32px;
+	padding-top: 5px;
+}
+
+/* ********************** DISABLED *********************** */
+/*
+.ui-table-login {
+	position: absolute; 
+	top: 15%; 
+	left: 50%; 
+	height: 2em; 
+	margin-top: -1em; 
+	width: 400px; 
+	margin-left: -200px; 
+	line-height: 2em;
+	text-align: center;
+}
+
+.ui-table-left {
+    width: 80%; 
+    margin-left: 10%; 
+    margin-right: 10%;
+    text-align: left;
+}
+*/
